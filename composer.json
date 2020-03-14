@@ -1,0 +1,12 @@
+{
+    "name": "dancan/modern_blog",
+    "description": "This is a wordpress theme that shows how to buid a modern wordpress website",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ngarawakimani",
+            "email": "dancankimani70@gmail.com"
+        }
+    ],
+    "require": {}
+}
