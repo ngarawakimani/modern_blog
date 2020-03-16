@@ -32,3 +32,8 @@ then run the following command
 npm run build
 
 ```
+
+```
+### To Dos
+
+Hot Reload
