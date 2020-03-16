@@ -33,7 +33,6 @@ npm run build
 
 ```
 
-```
-### To Dos
+## To Dos
 
 Hot Reload
