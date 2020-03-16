@@ -1,3 +1,10 @@
-let name = "Dancan Wakimani";
+class Main{
 
-console.log(name);
+    getAuthor(author){
+        console.log(author);
+    }
+
+}
+
+let main = new Main();
+main.getAuthor("Dancan Kimani");
