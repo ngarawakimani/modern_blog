@@ -1,3 +1,2 @@
-let name = "Dancan Kimani";
-
-console.log(name);
+import './style.scss';
+import './src/app';
